@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This Docker Image contains everything needed by the fb_tools Script as well as the fb_tools themselves.
+This Docker Image contains everything needed by the fb_tools Script.
 
 ### Built With
 
